@@ -56,6 +56,8 @@ Started with a blank HTML file in 2021. Today: production apps, an internship as
 
 > *"I don't just write code — I engineer experiences."*
 
+🔭 **Currently learning:** Agentic RAG patterns, multi-agent orchestration with LangGraph, and vector search optimization.
+
 </td>
 <td width="45%" valign="top">
 
