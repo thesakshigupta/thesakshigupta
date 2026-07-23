@@ -69,7 +69,7 @@ Started with a blank HTML file in 2021. Today: production apps, an internship as
 | 🦈 | **Pull Shark** — GitHub Achievement |
 | 🔭 | Building `moodify` & `web-seaver` |
 | 🤖 | LangChain · LangGraph · OpenAI · RAG · AI Agents |
-| 🌐 | [know-meee.vercel.app](https://know-meee.vercel.app/) |
+| 🌐 | [devsakshi.dev](https://devsakshi.dev/) |
 | ☕ | Powered by coffee & curiosity |
 
 </td>
@@ -194,7 +194,7 @@ Started with a blank HTML file in 2021. Today: production apps, an internship as
 ### 💼 Know Me — Portfolio
 > Stunning personal portfolio with Framer Motion animations
 
-[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://know-meee.vercel.app/)
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://devsakshi.dev/)
 [![Repo](https://img.shields.io/badge/Source_Code-FE428E?style=flat-square&logo=github&logoColor=white)](https://github.com/thesakshigupta/know-me)
 
 `Next.js` &nbsp; `React` &nbsp; `Framer Motion` &nbsp; `TailwindCSS`
@@ -252,7 +252,7 @@ Started with a blank HTML file in 2021. Today: production apps, an internship as
   <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://know-meee.vercel.app/">
+<a href="https://devsakshi.dev/">
   <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 &nbsp;
